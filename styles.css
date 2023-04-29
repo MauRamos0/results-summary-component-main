@@ -92,7 +92,7 @@ h1 {
   color: var(--white);
   margin-bottom: 0;
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 /* p styling */
@@ -253,7 +253,7 @@ button:active {
     height: 430px;
     padding-left: 2rem;
     padding-bottom: 2rem;
-    box-shadow: 1px 0 30px 10px hsla(234, 85%, 45%, 10%);
+    box-shadow: 1px 0px 30px 10px hsla(234, 85%, 45%, 10%);
     position: absolute;
     z-index: 1;
     left: 300px;
